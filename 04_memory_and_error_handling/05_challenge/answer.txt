@@ -1,0 +1,3 @@
+Initial size: 0, capacity: 0
+After adding elements: size: 3, capacity: 4
+After reserving space: size: 3, capacity: 10
